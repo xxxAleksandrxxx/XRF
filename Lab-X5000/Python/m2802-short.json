@@ -1,0 +1,27 @@
+{
+    "FWHM": 0,
+    "countRate": 213990,
+    "cursorChannel": 0,
+    "cursorEnergy_eV": 0,
+    "dateTime": "2020-10-29 17:36",
+    "device_businesslogic_version": 32,
+    "measurementId": 2802,
+    "measurement_conditions": {
+        "active_period_time": 266.10199999999998,
+        "current_mA": 0.23000000000000001,
+        "dpp_parameter": 3,
+        "filter_changer_position": 4,
+        "filter_id": 5,
+        "final_temp": 32.899999999999999,
+        "helium_flush_enabled": false,
+        "initial_temp": 32.799999999999997,
+        "pressure_hPa": 1010.4220595316592,
+        "raw_counts": 56942980,
+        "sample_cup_position": 2,
+        "sample_spinner_enabled": false,
+        "title": "13kV, 230uA, KF",
+        "total_accum_time": 300.06099999999998,
+        "valid_counts": 34686712,
+        "voltage_kV": 13
+    }
+}
