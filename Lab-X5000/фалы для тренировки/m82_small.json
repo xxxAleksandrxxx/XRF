@@ -1,0 +1,42 @@
+{
+    "FWHM": 0,
+    "countRate": 43991,
+    "cursorChannel": 0,
+    "cursorEnergy_eV": 0,
+    
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "wavelength_calibration": {
+                "isCalibrated": "Yes",
+                "positionVsWavelength": [
+                    0,
+                    0.10000000000000001
+                ],
+                "wavelengthVsPosition": [
+                    0,
+                    10
+                ]
+            }
+        }
+    ],
+    "startChannel": 0,
+    "startEnergy_eV": 0,
+    "startTimestamp": 0,
+    "stopChannel": 4095,
+    "stopEnergy_eV": 40950,
+    "timestamp": 1506605729,
+    "totalCounts": 394295,
+    "version": "1.0.0"
+}
